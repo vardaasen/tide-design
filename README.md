@@ -63,7 +63,7 @@ HTML
   - **[or simply clone repo](https://github.com/h5bp/html5-boilerplate-template)**
   - [validate html](https://validator.w3.org)
 
-==HTML5==
+== HTML5 ==
 
 - HTML5 allow multiple elements in a singel **a** tag
 - semantics
