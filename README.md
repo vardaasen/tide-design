@@ -78,6 +78,6 @@ HTML
   - grouping
   - text-level semantics
 - **outline** algorithm, theoretical, future, but there is meaning
-<!-- - [outliner tool 1](https://gsnedders.html5.org/outliner/)-->
+<span style="display:none;"><!-- - [outliner tool 1](https://gsnedders.html5.org/outliner/)--></span>
   - [outliner tool 2](https://hoyois.github.io/html5outliner/)
 
