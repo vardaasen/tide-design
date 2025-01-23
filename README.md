@@ -18,3 +18,4 @@ tide-design, Responsive design
   /* style /*  
   }
   ```
+ - There are tools for vendor prefixes
