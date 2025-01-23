@@ -45,3 +45,21 @@ HTML
   - ``<link href=CSS/main.css rel=stylesheet >``
 - More tools
   - [boilerplate](https://html5boilerplate.com)
+  - ``brew install nvm``
+  - ``nvim ~/.zshrc``
+```
+export NVM_DIR="$HOME/.nvm"
+. "$(brew --prefix nvm)/nvm.sh"
+```
+  - ``source ~/.zshrc``
+  - ``nvm - version``
+  - ``nvm install node``
+```
+npx create-html5-boilerplate new-site
+cd new-site
+npm install
+npm run start
+```
+- **[or simply clone repo](https://github.com/h5bp/html5-boilerplate-template)**
+
+
