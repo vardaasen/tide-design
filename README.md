@@ -63,4 +63,21 @@ HTML
   - **[or simply clone repo](https://github.com/h5bp/html5-boilerplate-template)**
   - [validate html](https://validator.w3.org)
 
+==HTML5==
+
+- HTML5 allow multiple elements in a singel **a** tag
+- semantics
+  - sectioning
+    - **main**, there can be only one and everything goes here (except repeated content)
+    - **section**, is not for styling, but think of layout
+    - **nav**, is for navigation links and a better choice than **ul** and **li**
+    - **article**, nested article elements are related, and article is self containing isolated from the rest of the page
+    - **aside**, for content related but not part of page context
+    - **header**, everything can have a header
+    - **footer**, everything can have a footer (but the specs point to **address** for
+  - grouping
+  - text-level semantics
+- **outline** algorithm, theoretical, future, but there is meaning for 
+  - [outliner tool 1](https://gsnedders.html5.org/outliner/)
+  - [outliner tool 2](https://hoyois.github.io/html5outliner/)
 
