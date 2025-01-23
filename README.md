@@ -61,5 +61,6 @@ HTML
       npm run start
       ```
   - **[or simply clone repo](https://github.com/h5bp/html5-boilerplate-template)**
+  - [validate html](https://validator.w3.org)
 
 
