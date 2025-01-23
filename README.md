@@ -10,3 +10,6 @@ tide-design, Responsive design
   - **max-width:100%** intrinsic fluid element
   - **width:100%** container for element reference fluid
 - media queries; directives in css, rules for environment constraints
+- **breakpoint**-design is *bad*, like hard coding, and think before using
+- **agnostic**-design is *good*, like responsive, always looks good
+- **min-width**, minimum-width media query ``@media screen and (min-width:400px){ /* style /* }``
