@@ -78,6 +78,6 @@ HTML
   - grouping
   - text-level semantics
 - **outline** algorithm, theoretical, future, but there is meaning for  
-[](- [outliner tool 1](https://gsnedders.html5.org/outliner/))  
+[- [outliner tool 1](https://gsnedders.html5.org/outliner/)]:#  
   - [outliner tool 2](https://hoyois.github.io/html5outliner/)
 
