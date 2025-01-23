@@ -13,6 +13,8 @@ tide-design, Responsive design
 - **breakpoint**-design is *bad*, like hard coding, and think before using
 - **agnostic**-design is *good*, like responsive, always looks good
 - **min-width**, minimum-width media query  
-  ```@media screen and (min-width:400px){  
-/* style /*  
-}```
+  ```
+  @media screen and (min-width:400px){  
+  /* style /*  
+  }
+  ```
