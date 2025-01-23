@@ -19,3 +19,7 @@ tide-design, Responsive design
   }
   ```
  - There are tools for vendor prefixes
+ - There are many tools for many things
+   - [media queries](https://www.w3.org/TR/?filter-tr-name=media+queries)
+   - [living standard](https://html.spec.whatwg.org/multipage/)
+   - [can i use](https://caniuse.com)
