@@ -23,3 +23,25 @@ tide-design, Responsive design
    - [media queries](https://www.w3.org/TR/?filter-tr-name=media+queries)
    - [living standard](https://html.spec.whatwg.org/multipage/)
    - [can i use](https://caniuse.com)
+
+***
+
+HTML
+====
+
+- **marking up** elements
+- **void** elements
+  - *param* is now obsolete, see *can i use* and *living standard*
+- ``<!doctype html>`` or ``<!DOCTYPE html>`` 
+  - HTML5 doctype declaration 
+- ``<html lang="en">``
+  - **root** tag with **lang** attribute
+- ``<head>``
+  - **head** section
+- ``<meta charset="utf-8" />``
+  - Specified in a **meta** tag, character encoding should always be **utf-8**, but can be something else
+- **conscientious** vs. **laxed** markup, a feature of HTML5
+  - ``<link href="CSS/main.css" rel="stylesheet" type="text/css" />``
+  - ``<link href=CSS/main.css rel=stylesheet >``
+- More tools
+  - [boilerplate](https://html5boilerplate.com)
