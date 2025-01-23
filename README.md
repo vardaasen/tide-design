@@ -7,6 +7,6 @@ tide-design, Responsive design
 - viewport **meta** tag: non-standard *de facto* method instructing browser how to render, introduced by Apple
 - fluid image style in css, not fixed sizes in width and height
 - different fluid effect from intrinsic size and container size instructed by 
- - **max-width:100%** intrinsic fluid element
- - **width:100%** container for element reference fluid
+  - **max-width:100%** intrinsic fluid element
+  - **width:100%** container for element reference fluid
 - media queries; directives in css, rules for environment constraints
